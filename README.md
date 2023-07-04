@@ -15,3 +15,5 @@ passwd：b68c
 3. the third dataset (visual+somatosensory, the somatosensory part is in 'third_dataset_sensor_data.xlsx')
 link：https://pan.baidu.com/s/1J33hgJg9LK6cFgRJkLINqg 
 passwd：qtqp
+
+Welcome to chat with me! Email: ruiqi_shen@tju.edu.cn
