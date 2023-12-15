@@ -12,4 +12,6 @@ This project is now undergoing further improvment by other members at NUS, and i
 
 I'm now a MSc student at Imperial College London, UK. If you have any further inquries, please don't hesitate to email me at ruiqi.shen23@imperial.ac.uk !
 
+Please also email me for the dataset ! All information is available here.
+
 Thanks !
